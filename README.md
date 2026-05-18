@@ -105,14 +105,6 @@ This experience has strengthened my ability to solve problems quickly, communica
 
 ---
 
-## 📊 GitHub Stats
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabesxan&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabesxan&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Career Goals
 
 I'm currently looking for opportunities as:
