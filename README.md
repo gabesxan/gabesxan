@@ -102,15 +102,3 @@ Currently working with technical support and commercial automation systems, help
 - Helpdesk routines
 
 This experience has strengthened my ability to solve problems quickly, communicate clearly, and work efficiently under pressure.
-
----
-
-## 🎯 Career Goals
-
-I'm currently looking for opportunities as:
-- Software Engineering Intern
-- Backend Developer Intern
-- Technology Intern
-- Junior Software Engineer
-
-My goal is to continue evolving as a developer, work on impactful projects, and become a strong backend/software engineer.
