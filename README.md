@@ -28,7 +28,6 @@ I enjoy building practical projects to strengthen both my programming logic and 
 - Software Engineering Principles
 - Git & GitHub
 - Databases & SQL
-- Linux
 
 ### 💬 Ask me about
 
