@@ -81,10 +81,6 @@ A terminal-based banking simulator built with pure Java focused on strengthening
 - Loops and Conditionals
 - Business Rules
 - Code Organization
-
-🔗 Repository:
-https://github.com/gabesxan/simulador-conta-bancaria-java
-
 ---
 
 ## 💼 Professional Experience
